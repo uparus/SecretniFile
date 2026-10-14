@@ -1,0 +1,10 @@
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.csproj.AssemblyReference.cache
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.Form1.resources
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.Properties.Resources.resources
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.csproj.GenerateResource.cache
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+C:\projects2course\C#\lab4\ex7\bin\Debug\ex7.exe.config
+C:\projects2course\C#\lab4\ex7\bin\Debug\ex7.exe
+C:\projects2course\C#\lab4\ex7\bin\Debug\ex7.pdb
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.exe
+C:\projects2course\C#\lab4\ex7\obj\Debug\ex7.pdb
