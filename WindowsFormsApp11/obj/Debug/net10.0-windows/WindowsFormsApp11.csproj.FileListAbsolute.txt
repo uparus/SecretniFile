@@ -1,0 +1,16 @@
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.exe
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.dll.config
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.deps.json
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.runtimeconfig.json
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.dll
+C:\projects2course\C#\lab6\WindowsFormsApp11\bin\Debug\net10.0-windows\WindowsFormsApp11.pdb
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.Form1.resources
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.Properties.Resources.resources
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.dll
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\refint\WindowsFormsApp11.dll
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.pdb
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\WindowsFormsApp11.genruntimeconfig.cache
+C:\projects2course\C#\lab6\WindowsFormsApp11\obj\Debug\net10.0-windows\ref\WindowsFormsApp11.dll

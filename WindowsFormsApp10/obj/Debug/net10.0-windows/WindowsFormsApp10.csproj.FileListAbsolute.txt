@@ -1,0 +1,16 @@
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.exe
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.dll.config
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.deps.json
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.runtimeconfig.json
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.dll
+C:\projects2course\C#\lab6\WindowsFormsApp10\bin\Debug\net10.0-windows\WindowsFormsApp10.pdb
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.Form1.resources
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.Properties.Resources.resources
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.dll
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\refint\WindowsFormsApp10.dll
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.pdb
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\WindowsFormsApp10.genruntimeconfig.cache
+C:\projects2course\C#\lab6\WindowsFormsApp10\obj\Debug\net10.0-windows\ref\WindowsFormsApp10.dll
